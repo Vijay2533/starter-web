@@ -14,5 +14,10 @@
     HTML5, CSS3
     jQuery, Modernizr
 
+<<<<<<< HEAD
 #Master branch
   -- GitHub
+=======
+
+
+
