@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+#Added my name as VIJAY KUMAR
     <name> -- <role> -- <twitter>
 
 # THANKS
