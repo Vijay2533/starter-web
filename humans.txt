@@ -14,6 +14,7 @@
     HTML5, CSS3
     jQuery, Modernizr
 
+<<<<<<< HEAD
 #Automation Branch 
   -- GIT tool
 #Master branch
@@ -22,3 +23,12 @@
 
 #Master branch
   -- GitHub
+=======
+<<<<<<< HEAD
+#Master branch
+  -- GitHub
+=======
+
+
+
+>>>>>>> 2269bdac2ba33677f283b6d2a8e9293ae8b02284
