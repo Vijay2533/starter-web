@@ -14,5 +14,15 @@
     HTML5, CSS3
     jQuery, Modernizr
 
+<<<<<<< HEAD
 #Automation Branch 
   -- GIT tool
+=======
+<<<<<<< HEAD
+#Master branch
+  -- GitHub
+=======
+
+
+#Merge in salesforce
+>>>>>>> 0e30d11... Modified humans.txt in salesforce branch
