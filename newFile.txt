@@ -1,0 +1,1 @@
+Adding the content to check the GIT Stash Command and related commands
