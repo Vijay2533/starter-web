@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+# Added line to check the stash command
+
 # TEAM
 #Added my name as VIJAY KUMAR
     <name> -- <role> -- <twitter>
